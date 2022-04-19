@@ -1,0 +1,43 @@
+elevator pitch
+
+we are NorthEastern Events. Our team members are Dereka, Trevor, Bekim. 
+We are a group that loves fun activities and the fun we can have with the people we love.
+It is a great thing to go out with your friends and family to an event you all have an interest in.
+But somethimes it is hard to find where and when these events are. Our goal is to make it easier to find these events.
+We do this by using ticketmaster and its resources to find a wide range of events from ones you may have done before 
+or have an interest in to ones you would never have dreamed of doing if the opportunity didnt show itself, like fairs, festivals,
+or comedy shows.
+
+Concept
+
+NorthEastern Events is a website that looks at the north eastern part of the U.S.
+With the help from ticketmaster we can find events you may want to do and get tickets for them.
+We were motivated by the idea of not knowing what events were happening around us and missing them.
+These events could be fairs, festivals, and concerts we may have never had known were happening.
+
+User Story
+
+
+Tecnology used
+
+Html
+CSS
+Javascript
+Ticketmaster API
+
+
+Challenges 
+
+Finding the Project idea we all wanted to do from a huge sea of possible ideas we could have done.
+We also werent sure how we wanted to go about it. From how it would run and look.
+
+Success 
+
+Learning that we could do it and that other websites do something similar and finding ways to make it work how we wanted.
+
+
+Direction for the future
+
+In the future we could branch out using either more api's to help find events with better prices than only using one api.
+We could also branch out to different parts of the country either with new websites only for that part of the country or 
+updating the original and doing a name change.

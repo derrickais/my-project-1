@@ -44,8 +44,7 @@ form label {
     font-family: 'Black Ops One', cursive;
 }
 
-form { 
-
+form {
     align-items: center;
     font-size: 40px;
     
@@ -71,3 +70,38 @@ nav p {
     margin: 20px 7px;
 }
 
+ul {
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    background-color: rgba(0, 0, 0, .7);
+    color: #FCB795;
+}
+
+li {
+    list-style: none;
+    background-color: rgba(0,0,0,.5);
+    margin: 10px;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+
+.eventName {
+    font-size: 22px;
+}
+
+.eventLocation {
+    font-size: 18px;
+    font-style: italic;
+}
+
+.eventDate {
+    font-size: 15px;
+}
